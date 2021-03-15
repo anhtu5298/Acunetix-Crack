@@ -1,4 +1,5 @@
 # Acunetix-Crack
+
 apt install unzip curl ; rm -rf /tmp/acun*
 apt install libxdamage1 libgtk-3-0 libasound2 libnss3 libxss1 libx11-xcb1 -y
 cd /tmp; rm master.zip -f
